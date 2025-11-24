@@ -43,7 +43,7 @@ The database is fully MySQL-compatible, with proper keys, constraints, and data 
 
 Clone the repository:
 
-Copy the link: https://github.com/yourusername/bubsbooties-database.git
+git clone https://github.com/yourusername/bubsbooties-database.git
 
 Open SQL files in MySQL Workbench or your preferred SQL editor.
 
