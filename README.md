@@ -22,7 +22,7 @@ The database is fully MySQL-compatible, with proper keys, constraints, and data 
 
 | File              | Description                                                        |
 | ----------------- | ------------------------------------------------------------------ |
-| `schema.sql`      | `CREATE TABLE` statements for all tables with keys and constraints |
+| `BubsBooty.sql`      | `CREATE TABLE` statements for all tables with keys and constraints |
 | `sample_data.sql` | Inserts demo data into each table for testing and analysis         |
 | `README.md`       | Project documentation                                              |
 
@@ -41,15 +41,10 @@ The database is fully MySQL-compatible, with proper keys, constraints, and data 
 -----------------------------------------------------------------------------------------------------------
 🔹 How to Use
 
-Clone the repository:
-
-git clone https://github.com/yourusername/bubsbooties-database.git
 
 Open SQL files in MySQL Workbench or your preferred SQL editor.
 
-Run schema.sql to create all tables.
-
-Run sample_data.sql to populate the tables with sample data.
+Copy the code and run BubsBotty.sql to create all tables and their data.
 
 Start querying to analyze customer behavior, sales, and employee performance.
 
